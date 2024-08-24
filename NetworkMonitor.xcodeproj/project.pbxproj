@@ -11,6 +11,7 @@
 		26FD1C2B2C7A1FB800EFC6AB /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 26FD1C2A2C7A1FB800EFC6AB /* ContentView.swift */; };
 		26FD1C2D2C7A1FBA00EFC6AB /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 26FD1C2C2C7A1FBA00EFC6AB /* Assets.xcassets */; };
 		26FD1C302C7A1FBA00EFC6AB /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 26FD1C2F2C7A1FBA00EFC6AB /* Preview Assets.xcassets */; };
+		26FD1C372C7A1FE100EFC6AB /* NetworkMonitor.swift in Sources */ = {isa = PBXBuildFile; fileRef = 26FD1C362C7A1FE100EFC6AB /* NetworkMonitor.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +20,7 @@
 		26FD1C2A2C7A1FB800EFC6AB /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		26FD1C2C2C7A1FBA00EFC6AB /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		26FD1C2F2C7A1FBA00EFC6AB /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		26FD1C362C7A1FE100EFC6AB /* NetworkMonitor.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NetworkMonitor.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -52,6 +54,7 @@
 			isa = PBXGroup;
 			children = (
 				26FD1C282C7A1FB800EFC6AB /* NetworkMonitorApp.swift */,
+				26FD1C362C7A1FE100EFC6AB /* NetworkMonitor.swift */,
 				26FD1C2A2C7A1FB800EFC6AB /* ContentView.swift */,
 				26FD1C2C2C7A1FBA00EFC6AB /* Assets.xcassets */,
 				26FD1C2E2C7A1FBA00EFC6AB /* Preview Content */,
@@ -138,6 +141,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				26FD1C2B2C7A1FB800EFC6AB /* ContentView.swift in Sources */,
+				26FD1C372C7A1FE100EFC6AB /* NetworkMonitor.swift in Sources */,
 				26FD1C292C7A1FB800EFC6AB /* NetworkMonitorApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
